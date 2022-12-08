@@ -1,0 +1,1 @@
+worker: python simple_http_cors_server.py
